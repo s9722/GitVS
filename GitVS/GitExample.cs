@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitVS
 {
-    class Program
+    class GitExample
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("hello");
-        }
+        public int MyProperty { get; set; }
     }
 }
